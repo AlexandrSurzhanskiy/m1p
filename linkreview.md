@@ -7,4 +7,6 @@
 |The use of collective method for improvement of regression modeling stability|2004|Senko О.V|||
 |An optimal ensemble of predictors in convex correcting procedures|2009|Senko O.V|||
 |Regression shrinkage and selection via the lasso|1996|Tibshirani R.|||
-||||||
+|Regularization and variable selection via the elastic net|2005|Zou H., Hastie T., Efron B., Hastie T.|||
+|Least angle regression|2004|Efron B., Hastie T., Jonnstone I., Tibshirani R.|||
+|Managing diversity in regression ensembles|2005|Brown G., Wyatt J.L., Tino P. |||
